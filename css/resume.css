@@ -25,9 +25,10 @@ body {
   background-color: #3F51B5; }
 
 .Newgroup {
-  min-height: 40vh;
+  height: 32.5vh;
   background-color: #3F51B5;
-  margin-top: 3.2vh; }
+  margin-top: 3.2vh;
+  margin-bottom: -3vh; }
 
 .levelGroup {
   margin-bottom: -3vh; }
@@ -39,11 +40,14 @@ body {
 .icon {
   margin-top: 10vh; }
 
+.icon1 {
+  margin-top: 5vh; }
+
 .side {
   width: 85%; }
 
 .topStuff {
-  margin-top: 25%; }
+  margin-top: 7%; }
   .topStuff a, .topStuff p {
     font-size: 1.1em; }
 
@@ -51,20 +55,27 @@ body {
   margin-top: 4vh; }
 
 #emailStuff {
-  margin-bottom: 3vh; }
+  margin-top: 44%; }
+
+.github {
+  height: 15vh; }
 
 .gitHub {
-  margin-top: 11vh;
+  margin-top: 15%;
   font-size: 1.1em; }
 
 .likeCon {
   margin-left: 10%;
   margin-top: 6%; }
 
-#phone {
-  margin-bottom: 3vh; }
+#phone, #emailTop {
+  margin-bottom: 3%; }
 
 .interest {
   height: 40.3vh; }
+
+.iconGit {
+  margin-top: 30%;
+  margin-bottom: 5%; }
 
 /*# sourceMappingURL=resume.css.map */
