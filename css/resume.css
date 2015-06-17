@@ -12,8 +12,11 @@ body {
 .title {
   text-shadow: 2px 2px 2px black; }
 
+.projDesc {
+  min-height: 9.85vh; }
+
 .mainCard {
-  height: 40%;
+  height: 80%;
   background-color: #303F9F; }
   .mainCard .resStuff, .mainCard .projStuff, .mainCard .iconStuff {
     background-color: #3F51B5;
@@ -38,8 +41,11 @@ body {
   min-height: 40vh;
   background-color: #3F51B5; }
 
+.iconLevel {
+  margin-top: 13vh; }
+
 .icon {
-  margin-top: 10vh; }
+  margin-top: 9.3vh; }
 
 .icon1 {
   margin-top: 5vh; }
@@ -56,7 +62,7 @@ body {
   margin-top: 4vh; }
 
 #emailStuff {
-  margin-top: 44%; }
+  margin-top: 36%; }
 
 .github {
   height: 15vh; }
