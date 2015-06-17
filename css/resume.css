@@ -1,0 +1,70 @@
+body {
+  background-color: #FFFFFF;
+  color: #FFFFFF;
+  text-shadow: 1px 1px 1px black; }
+  body a {
+    color: white; }
+  body img {
+    width: 100%;
+    height: 75%; }
+
+.title {
+  text-shadow: 2px 2px 2px black; }
+
+.mainCard {
+  height: 40%;
+  background-color: #303F9F; }
+  .mainCard .resStuff, .mainCard .projStuff, .mainCard .iconStuff {
+    background-color: #3F51B5;
+    margin-top: -1vh; }
+  .mainCard .projTop {
+    background-color: #3F51B5; }
+
+.group {
+  margin-top: -3vh;
+  background-color: #3F51B5; }
+
+.Newgroup {
+  min-height: 40vh;
+  background-color: #3F51B5;
+  margin-top: 3.2vh; }
+
+.levelGroup {
+  margin-bottom: -3vh; }
+
+.groupTop {
+  min-height: 40vh;
+  background-color: #3F51B5; }
+
+.icon {
+  margin-top: 10vh; }
+
+.side {
+  width: 85%; }
+
+.topStuff {
+  margin-top: 25%; }
+  .topStuff a, .topStuff p {
+    font-size: 1.1em; }
+
+#Suckit {
+  margin-top: 4vh; }
+
+#emailStuff {
+  margin-bottom: 3vh; }
+
+.gitHub {
+  margin-top: 11vh;
+  font-size: 1.1em; }
+
+.likeCon {
+  margin-left: 10%;
+  margin-top: 6%; }
+
+#phone {
+  margin-bottom: 3vh; }
+
+.interest {
+  height: 40.3vh; }
+
+/*# sourceMappingURL=resume.css.map */
